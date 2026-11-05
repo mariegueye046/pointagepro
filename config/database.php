@@ -2,7 +2,7 @@
 class Database
 {
     private string $host = "localhost";
-    private string $dbname = "pointagepro";
+    private string $dbname = "projettelly";
     private string $user = "root";
     private string $password = "";
 
